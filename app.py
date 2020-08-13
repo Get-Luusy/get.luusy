@@ -21,8 +21,7 @@ from bot import bot, post_ids
 
 filepath = "images"
 
-subreddits = ['dankmemes', 'ProgrammerHumor',
-              'memes', 'wholesomememes', 'comedyheaven']
+subreddits = ['dankmemes', 'memes', 'wholesomememes', 'comedyheaven']
 
 tags = "#meme #getluusy #dankmemes"
 
